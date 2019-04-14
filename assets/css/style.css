@@ -12,7 +12,7 @@ html {
 
 input {
     width: 100%;
-    padding: 1.8em;
+    padding: 1.5em;
 }
 
 .search-form {
@@ -24,7 +24,7 @@ input.search {
     margin: .2em;
     text-align: center;
     outline: 0;
-    border: .8em solid #f7f7f7;
+    border: .2em ridge #f7f7f754;
     width: 120%;
     left: -10%;
     position: relative;
@@ -69,5 +69,5 @@ span.population {
 }
 
 .hl {
-    background-color: #661b1a;
+    background-color: #ffe17e;
 }
